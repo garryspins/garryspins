@@ -3,6 +3,4 @@
 </p>
 uhhhh urgay.xyz
 
-i write a lot of languages
-
-lua, go, python, ada, ect
+i write a lot of languages like lua, go, python, ada, and a couple others that are pretty lame
